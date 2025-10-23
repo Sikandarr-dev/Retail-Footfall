@@ -48,3 +48,7 @@ Fixed conditional formatting issue (negative values now retain red color)
 Improved performance by removing redundant calculated columns
 
 The dataset now supports linking with a Date dimension via selected_period_to column.
+
+- Dashboard Screens
+
+Show what the dashboard looks like: https://github.com/Sikandarr-dev/Retail-Footfall/blob/main/Retail%20Footfall%20Screens.pdf
